@@ -6,7 +6,7 @@
 
 ## 📱 Demo Preview
 
-![App Screenshot](assets/Screenshot of Demo.png)
+assets/Screenshot of Demo.png
 
 ---
 
