@@ -6,7 +6,7 @@
 
 ## 📱 Demo Preview
 
-assets/Screenshot of Demo.png
+my_flutter_widget/assets/Screenshot.png
 
 ---
 
