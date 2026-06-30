@@ -6,7 +6,7 @@
 
 ## 📱 Demo Preview
 
-Screenshot.png
+![App Screenshot](Screenshot.png)
 
 ---
 
